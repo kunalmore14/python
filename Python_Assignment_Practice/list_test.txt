@@ -1,0 +1,25 @@
+
+1 Create list of your name,age, field ,location using [] and list constructor
+2 print only your field using index method
+3 print the position of location element
+4 print element btw age and locaton ,using forward and backward indexing
+5 replace the element of name with surname
+6 replace the element of name ,age and field
+7 replace the element of name,age with only surname
+8 replace the element of name with your nickname and surname'
+9 add your surname in the list after your first name
+10 add your only one hobby at the end of the list
+11 add your n-numbers of hobbies at the end of list
+12 remove your location from list
+13 remove your age from list[using 2 methods]
+14 remove last element from the list
+15 remove all element from the list(empty)
+16 delete the list
+17 create a list of prime numbers till 20 and find the length of it
+18 create a list of 5,2,18,7,12 and print in ascending and descending order
+19 merge two list
+20 make a deep copy of list and check whether it is copying deeply or not
+21 make a copy of list in that way  making changes in one list will not affect to the another list
+22 Take any example to  explain stack and queue 
+23 zip four list contain with natural number your name,age, rollno
+24 unzip the above list
